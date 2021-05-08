@@ -2,5 +2,5 @@
 
 Old Guide: 
 
-https://micronaut-projects.github.io/micronaut-guides-old/mn-application-aws-lambda-java11/guide/index.html
+https://micronaut-projects.github.io/micronaut-guides-old/mn-serverless-function-aws-lambda-graalvm/guide/index.html
 
